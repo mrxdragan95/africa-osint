@@ -23,7 +23,7 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 
 # Task 1
 1. Do you understand the flag format? 
-[^] Hint: A-THM{???}
+<br> *Hint: A-THM{???}*
 
 # Task 2
 
@@ -33,11 +33,12 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 
 1. Where was the first picture taken? 
 2. What time did the bridge show in the second picture open? 
-[^] Hint: A-THM{MONTH-DAY-YEAR}
+<br> *Hint: A-THM{MONTH-DAY-YEAR}*
 3. On what planet in Star Wars was the third photo taken place? 
-[^] Hint: A-THM{city, country, planet in Star-Wars}
+<br> *Hint: A-THM{city, country, planet in Star-Wars}*
 4. Where was the fourth picture captured?
-5. Where was that last picture taken? Hint: The Rock between Europe and Africa.
+5. Where was that last picture taken? 
+<br> *Hint: The Rock between Europe and Africa.*
 
 # Task 3
 
@@ -54,7 +55,7 @@ I published the history of art in West Africa and I am working on organized busi
 2. Decode the following elements: NDEuMTg5LjE5Mi4w in order to find out what is the country's currency?
 3. Decode the following; <)un;9e^g3;H-+]AQ2Pb<)umdA5t?N:fK,3 - to identify the Latitude and Longitude encoded?
 4. [Research] What are the four types of attacks In Equatorial Guinea and Cameroon that have been carried out since at least mid-2017? 
-[^] Hint: See who writes the comment.
+<br> *Hint: See who writes the comment.*
 
 # Task 4
 
@@ -77,10 +78,10 @@ I published the history of art in West Africa and I am working on organized busi
 1. In which city is the street shown on the glitch picture and under what name the street is registered?
 2. On what date was the site first captured by the archive? (DD-MM-YYYY)
 3. [Research] Which network was used as the first mobile operator in Mozambique and what was its technical e-mail contact? 
-[^] Hint: Defang URL!
+<br> *Hint: Defang URL!*
 4. What are the dialling codes for Rwanda, Ethiopia, and Madagascar?
 5. [Research] How to translate "no worries" in Swahili? 
-[^] Hint: Attempt to translate 1337
+<br> *Hint: Attempt to translate 1337*
 
 # Task 5
 
@@ -104,7 +105,8 @@ I published the history of art in West Africa and I am working on organized busi
 
 ## Fifth Challenge
 
-1. Name the regions of the African Union from challenges #1 to #5? Hint: Attempt to translate 1337 :)
+1. Name the regions of the African Union from challenges #1 to #5? 
+<br> *Hint: Attempt to translate 1337 :)*
 
 # Task 7
 
