@@ -22,7 +22,8 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 **Here is the answer to the question: Tayari**
 
 # Task 1
-1. Do you understand the flag format? Hint: A-THM{???}
+1. Do you understand the flag format? 
+[^] Hint: A-THM{???}
 
 # Task 2
 
@@ -31,8 +32,10 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 ![alt text](img/Task2.jpg)
 
 1. Where was the first picture taken? 
-2. What time did the bridge show in the second picture open? Hint: A-THM{MONTH-DAY-YEAR}
-3. On what planet in Star Wars was the third photo taken place? Hint: A-THM{city, country, planet in Star-Wars}
+2. What time did the bridge show in the second picture open? 
+[^] Hint: A-THM{MONTH-DAY-YEAR}
+3. On what planet in Star Wars was the third photo taken place? 
+[^] Hint: A-THM{city, country, planet in Star-Wars}
 4. Where was the fourth picture captured?
 5. Where was that last picture taken? Hint: The Rock between Europe and Africa.
 
@@ -50,7 +53,8 @@ I published the history of art in West Africa and I am working on organized busi
 1. Where the IP Owner 154[.]73[.]167[.]188 is from?
 2. Decode the following elements: NDEuMTg5LjE5Mi4w in order to find out what is the country's currency?
 3. Decode the following; <)un;9e^g3;H-+]AQ2Pb<)umdA5t?N:fK,3 - to identify the Latitude and Longitude encoded?
-4. [Research] What are the four types of attacks In Equatorial Guinea and Cameroon that have been carried out since at least mid-2017? Hint: See who writes the comment.
+4. [Research] What are the four types of attacks In Equatorial Guinea and Cameroon that have been carried out since at least mid-2017? 
+[^] Hint: See who writes the comment.
 
 # Task 4
 
@@ -72,9 +76,11 @@ I published the history of art in West Africa and I am working on organized busi
 
 1. In which city is the street shown on the glitch picture and under what name the street is registered?
 2. On what date was the site first captured by the archive? (DD-MM-YYYY)
-3. [Research] Which network was used as the first mobile operator in Mozambique and what was its technical e-mail contact? Hint: Defang URL!
+3. [Research] Which network was used as the first mobile operator in Mozambique and what was its technical e-mail contact? 
+[^] Hint: Defang URL!
 4. What are the dialling codes for Rwanda, Ethiopia, and Madagascar?
-5. [Research] How to translate "no worries" in Swahili? Hint: Attempt to translate 1337
+5. [Research] How to translate "no worries" in Swahili? 
+[^] Hint: Attempt to translate 1337
 
 # Task 5
 
@@ -84,15 +90,15 @@ I published the history of art in West Africa and I am working on organized busi
 2. What is the route of the flight BOT323/BP323?
 3. What UN/LOCODE two ports are in Namibia?
 4. Which four of the following are license plates of Eswatini?
-  *1) SC 141 07*
-  *2) OSD 613 AL*
-  *3) ASD 143 CM*
-  *4) KBW 1337* 
-  *5) UBB 420U*
-  *6) HSD 936 BM*
-  *7) PM RF 1991*
-  *8) NSD 337 AH*
-  *9) SD CD 342*
+<br> *1) SC 141 07*
+<br>  *2) OSD 613 AL*
+<br>  *3) ASD 143 CM*
+<br>  *4) KBW 1337* 
+<br>  *5) UBB 420U*
+<br>  *6) HSD 936 BM*
+<br>  *7) PM RF 1991*
+<br>  *8) NSD 337 AH*
+<br>  *9) SD CD 342*
 
 # Task 6
 
