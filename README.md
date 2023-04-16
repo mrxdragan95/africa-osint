@@ -21,11 +21,10 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 
 **Here is the answer to the question: Tayari**
 
-# Task 1
 1. Do you understand the flag format? 
-<br> *Hint: A-THM{???}*
+<br> *Hint: THM{???}*
 
-# Task 2
+# Task 1
 
 ## First Challenge
 
@@ -33,14 +32,14 @@ If you are stuck inside this room, ask for help in the TryHackMe discord. You ma
 
 1. Where was the first picture taken? 
 2. What time did the bridge show in the second picture open? 
-<br> *Hint: A-THM{MONTH-DAY-YEAR}*
+<br> *Hint: THM{MONTH-DAY-YEAR}*
 3. On what planet in Star Wars was the third photo taken place? 
-<br> *Hint: A-THM{city, country, planet in Star-Wars}*
+<br> *Hint: THM{city, country, planet in Star-Wars}*
 4. Where was the fourth picture captured?
 5. Where was that last picture taken? 
 <br> *Hint: The Rock between Europe and Africa.*
 
-# Task 3
+# Task 2
 
 ## Second Challenge
 
@@ -51,6 +50,16 @@ I published the history of art in West Africa and I am working on organized busi
 *“African art is functional; it serves a purpose. It's not a dormant. It's not a means to collect the largest cheering section. It should be healing, a source a joy. Spreading positive vibrations.”*
 *-- Mos Def*
 
+1. Where does Ikhlas live in? Hint: "Social Network" and try to searching "IkhlasOtoo"
+2. Where was this profile of the picture like African Sculpture art from?
+3. Where does Ikhlas's sister reside? 
+4. Where the sister's boyfriend is off to? 
+5. Who is the TryHackMe owner, person's full name, and where this person has been living?
+
+# Task 3
+
+## Third Challenge
+
 1. Where the IP Owner 154[.]73[.]167[.]188 is from?
 2. Decode the following elements: NDEuMTg5LjE5Mi4w in order to find out what is the country's currency?
 3. Decode the following; <)un;9e^g3;H-+]AQ2Pb<)umdA5t?N:fK,3 - to identify the Latitude and Longitude encoded?
@@ -59,7 +68,7 @@ I published the history of art in West Africa and I am working on organized busi
 
 # Task 4
 
-## Third Challenge
+## Fourth Challenge
 
 ![alt text](img/44.jpg)
 
@@ -85,7 +94,7 @@ I published the history of art in West Africa and I am working on organized busi
 
 # Task 5
 
-## Fourth Challenge
+## Fifth Challenge
 
 1. Which airline operates every day flight from Johannesburg to Victoria Falls at 10:50 AM and what is the flight number?
 2. What is the route of the flight BOT323/BP323?
@@ -103,7 +112,7 @@ I published the history of art in West Africa and I am working on organized busi
 
 # Task 6
 
-## Fifth Challenge
+## Sixth Challenge
 
 1. Name the regions of the African Union from challenges #1 to #5? 
 <br> *Hint: Attempt to translate 1337 :)*
